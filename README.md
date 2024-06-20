@@ -1,1 +1,1 @@
-# RabbitMQMicroSRVSPrjct
+# RabbitMQMicroServicePrjct
