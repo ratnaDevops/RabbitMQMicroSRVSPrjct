@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SFFm91nhMfVxZCgRUzP2V9LHnth3SsQ0Ss9v52hwBnE=",
+  "Source": "ProducerService",
+  "BasePath": "_content/ProducerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
